@@ -79,4 +79,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://blog.logirent.ch/blog/pourquoi-choisir-un-logiciel-suisse-pour-gerer-votre-location-de-vehicules.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
