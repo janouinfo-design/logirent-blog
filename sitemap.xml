@@ -37,4 +37,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://blog.logirent.ch/blog/location-de-voiture-a-lausanne-guide-complet-pour-louer-au-meilleur-prix.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
