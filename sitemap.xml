@@ -151,4 +151,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://blog.logirent.ch/blog/comment-passer-d-excel-a-un-logiciel-de-gestion-de-location-moderne.html</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
